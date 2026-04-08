@@ -1,66 +1,178 @@
-# PACO — IA Propia desde cero
+Quiero que desarrolles una IA llamada PACO (o PAKO) completamente funcional, partiendo de un sistema tipo chatbot ya existente basado en:
 
-## Instalación (solo necesitas Python 3.10+, sin librerías externas)
+- Tokenización
+- Bag of Words
+- Similitud coseno
+- Sistema de intenciones
+- Memoria persistente en JSON
 
-```bash
-# 1. Pon los 3 archivos en la misma carpeta:
-#    paco.py · paco_brain.py · paco_server.py
-
-# 2. Ejecuta:
-python paco.py
-
-# 3. Abre en el navegador:
-#    http://localhost:8765
-```
+El objetivo es evolucionarlo a un sistema híbrido inteligente con aprendizaje automático controlado, navegación web y acceso a repositorios.
 
 ---
 
-## Qué sabe hacer Paco
+# 🧩 FUNCIONALIDADES PRINCIPALES
 
-| Capacidad           | Ejemplo                                              |
-|---------------------|------------------------------------------------------|
-| Saludar / conversar | "Hola Paco", "¿cómo estás?"                         |
-| Calcular            | "¿cuánto es 347 * 28?"  "15% de 200"                |
-| Potencias / raíz    | "calcula 2 elevado a 10"                            |
-| Estadísticas        | "analiza estos datos: 12, 45, 7, 89, 34"            |
-| Hora y fecha        | "¿qué hora es?"  "¿qué día es hoy?"                 |
-| Nº aleatorios       | "número aleatorio entre 1 y 100"                    |
-| Chistes / curiosidades | "cuéntame un chiste"  "dato curioso"             |
-| **Aprender**        | "aprende que X es Y"                                |
-| **Recordar**        | Lo aprendido se guarda en `paco_aprendido.json`     |
+## 1. Chatbot base
+- Mantener todas las funcionalidades actuales:
+  - Conversación natural
+  - Cálculos matemáticos
+  - Estadísticas
+  - Respuestas contextuales
+  - Sistema de aprendizaje manual ("aprende que X es Y")
 
 ---
 
-## Cómo enseñarle cosas nuevas
+## 2. Aprendizaje automático desde GitHub
 
-```
-aprende que Django es un framework web de Python
-aprende que la velocidad de la luz es 299.792 km/s
-aprende que mi nombre es Juan
-aprende que el proyecto Alpha significa el proyecto secreto
-```
+Implementar un módulo que:
 
-Paco lo recordará aunque cierres y vuelvas a abrir el programa.
+- Permita login mediante OAuth de GitHub
+- Acceda a los repositorios del usuario autenticado
+- Lea automáticamente:
+  - README.md
+  - Código fuente (solo lectura)
+- Extraiga conocimiento útil
+
+El sistema debe:
+- Analizar contenido
+- Transformarlo en conocimiento estructurado tipo:
+  - "X es Y"
+  - "X sirve para Y"
+- Filtrar contenido irrelevante o duplicado
+
+IMPORTANTE:
+- Nunca modificar repositorios
+- Solo lectura
+- No ejecutar código externo
 
 ---
 
-## Archivos del proyecto
+## 3. Navegación y aprendizaje desde internet
 
-```
-paco.py          → Punto de entrada (ejecuta esto)
-paco_brain.py    → Cerebro: lógica, NLP, aprendizaje, cálculo
-paco_server.py   → Servidor web + interfaz de chat
-paco_aprendido.json  → Se crea automáticamente con lo aprendido
-```
+Crear un agente que:
+
+- Busque información en internet cuando no sepa algo
+- Extraiga contenido relevante
+- Lo procese y lo convierta en conocimiento útil
+
+Flujo:
+1. Detectar falta de conocimiento
+2. Buscar información
+3. Limpiar texto
+4. Generar conocimiento estructurado
+5. Validar antes de guardar
 
 ---
 
-## Cómo funciona por dentro (sin modelos externos)
+## 4. Sistema de autoaprendizaje CONTROLADO
 
-1. **Tokenizador**: divide el texto en palabras, normaliza acentos
-2. **Bag-of-Words**: convierte texto en vectores numéricos
-3. **Similitud coseno**: mide cuánto se parece tu mensaje a cada patrón conocido
-4. **Motor de intenciones**: clasifica el mensaje (saludo, cálculo, pregunta, etc.)
-5. **Calculadora propia**: extrae y evalúa expresiones matemáticas del texto natural
-6. **Aprendizaje persistente**: guarda lo que le enseñas en JSON
-7. **Memoria conversacional**: recuerda el contexto de la sesión actual
+- PACO debe poder aprender automáticamente, pero con reglas:
+  - Validación obligatoria del conocimiento
+  - Evitar duplicados
+  - Evitar contradicciones
+- Guardar conocimiento en base de datos local (JSON o DB)
+
+---
+
+## 5. Acceso a archivos locales (modo seguro)
+
+Implementar módulo que:
+
+- Permita leer archivos del usuario (solo lectura)
+- Limitar a carpetas específicas configurables
+- Extraer conocimiento útil de:
+  - Documentos
+  - Código
+  - Notas
+
+RESTRICCIONES:
+- No borrar archivos
+- No modificar archivos
+- No ejecutar programas
+- No acceder a datos sensibles
+
+---
+
+## 6. Motor híbrido de respuesta
+
+Cuando el usuario pregunte:
+
+1. Buscar en memoria local
+2. Si no hay respuesta:
+   - Buscar en internet o GitHub
+3. Generar respuesta
+4. Opcional: aprender del resultado
+
+---
+
+## 7. Interfaz moderna (MUY IMPORTANTE)
+
+Desarrollar una UI moderna tipo ChatGPT:
+
+- Frontend con React + Tailwind
+- Diseño limpio, minimalista y profesional
+- Animaciones suaves
+- Chat en tiempo real
+- Panel lateral con:
+  - Memoria aprendida
+  - Estado del sistema
+  - Actividad de aprendizaje
+
+Extras:
+- Indicador de “aprendiendo…”
+- Botón para activar/desactivar autoaprendizaje
+- Botón para conectar con GitHub
+
+---
+
+## 8. Arquitectura del sistema
+
+Separar en módulos:
+
+- paco_brain.py → lógica principal
+- paco_web_agent.py → navegación web
+- paco_github_agent.py → integración GitHub
+- paco_memory.py → almacenamiento
+- paco_server.py → backend API
+- frontend → React app
+
+---
+
+## 9. Seguridad y estabilidad
+
+- Manejo de errores robusto
+- Logs de actividad
+- Sistema de validación de conocimiento
+- Evitar aprendizaje de datos corruptos
+
+---
+
+## 10. Escalabilidad futura
+
+Preparar el sistema para:
+
+- Integrar embeddings en el futuro
+- Integrar modelos tipo LLM
+- Migrar a base de datos vectorial
+
+---
+
+# 🎯 OBJETIVO FINAL
+
+Crear una IA local avanzada que:
+
+- Aprende del usuario
+- Aprende de internet
+- Aprende de GitHub
+- Mejora con el tiempo
+- Mantiene control y estabilidad
+- Tiene interfaz moderna
+
+---
+
+Entrega:
+
+- Código completo funcional
+- Estructura del proyecto
+- Instrucciones de instalación
+- Ejemplo de uso

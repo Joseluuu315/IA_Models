@@ -1,0 +1,9 @@
+{
+  "autoaprendizaje_web": true,
+  "autoaprendizaje_github": true,
+  "validacion_manual": true,
+  "carpetas_permitidas": [],
+  "github_token": "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",
+  "max_entradas": 10000,
+  "umbral_confianza_auto": 0.6
+}
