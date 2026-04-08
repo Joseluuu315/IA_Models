@@ -1,0 +1,154 @@
+{
+  "historial": [
+    {
+      "rol": "user",
+      "texto": "busca qué es Rust",
+      "timestamp": 1775680865.3801174,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 Rust es un lenguaje de sistemas de Mozilla enfocado en seguridad de memoria sin garbage collector. El sistema de ownership y borrowing garantiza en compilacion que no hay data races ni dangling pointers. Rendimiento comparable a C/C++. Usos: WebAssembly, sistemas embebidos, CLI tools, kernel Linux. Lenguaje mas amado de StackOverflow por anos consecutivos.",
+      "timestamp": 1775680865.390388,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "¿qué hora es?",
+      "timestamp": 1775680868.0512924,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "🕒 Son las **22:41:08**. Hoy es **miércoles, 8 de abril de 2026**.",
+      "timestamp": 1775680868.056635,
+      "fuente": "sistema"
+    },
+    {
+      "rol": "user",
+      "texto": "¿Qué puedes hacer?",
+      "timestamp": 1775680871.5553515,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775680871.5603378,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "¿Qué puedes hacer?",
+      "timestamp": 1775680875.820313,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775680875.8256063,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "¿Qué puedes hacer?",
+      "timestamp": 1775680877.774295,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775680877.7815173,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "¿Qué puedes hacer?",
+      "timestamp": 1775680878.6232476,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775680878.6287472,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "que sabes hacer",
+      "timestamp": 1775680882.3078592,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 Floyd-Warshall calcula caminos mas cortos entre todos los pares de vertices. Complejidad O(V cubo). Permite pesos negativos pero no ciclos negativos. Usa DP. Util cuando se necesitan todas las distancias entre pares de nodos.",
+      "timestamp": 1775680882.3135424,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "¿Qué puedes hacer?",
+      "timestamp": 1775680892.4394875,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775680892.4444625,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "estadísticas",
+      "timestamp": 1775680894.1162496,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📊 **Estado de PAKO** (para Usuario)\n\n🧠 Conocimiento total: **213** entradas (213 activas)\n📚 Manual: 1  |  🌐 Web: 0  |  🐙 GitHub: 0  |  📁 Archivos: 0\n⏳ Pendientes de validar: 0\n💬 Historial: 17 mensajes\n🤖 Web agent: ✅  |  GitHub: ❌ desconectado",
+      "timestamp": 1775680894.1163585,
+      "fuente": "sistema"
+    },
+    {
+      "rol": "user",
+      "texto": "estadísticas",
+      "timestamp": 1775680899.7401216,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📊 **Estado de PAKO** (para Usuario)\n\n🧠 Conocimiento total: **213** entradas (213 activas)\n📚 Manual: 1  |  🌐 Web: 0  |  🐙 GitHub: 0  |  📁 Archivos: 0\n⏳ Pendientes de validar: 0\n💬 Historial: 19 mensajes\n🤖 Web agent: ✅  |  GitHub: ❌ desconectado",
+      "timestamp": 1775680899.740225,
+      "fuente": "sistema"
+    },
+    {
+      "rol": "user",
+      "texto": "estadísticas",
+      "timestamp": 1775680905.6347644,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📊 **Estado de PAKO** (para Usuario)\n\n🧠 Conocimiento total: **213** entradas (213 activas)\n📚 Manual: 1  |  🌐 Web: 0  |  🐙 GitHub: 0  |  📁 Archivos: 0\n⏳ Pendientes de validar: 0\n💬 Historial: 21 mensajes\n🤖 Web agent: ✅  |  GitHub: ❌ desconectado",
+      "timestamp": 1775680905.6348717,
+      "fuente": "sistema"
+    },
+    {
+      "rol": "user",
+      "texto": "estadísticas",
+      "timestamp": 1775680914.413389,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📊 **Estado de PAKO** (para Usuario)\n\n🧠 Conocimiento total: **213** entradas (213 activas)\n📚 Manual: 1  |  🌐 Web: 0  |  🐙 GitHub: 0  |  📁 Archivos: 0\n⏳ Pendientes de validar: 0\n💬 Historial: 23 mensajes\n🤖 Web agent: ✅  |  GitHub: ✅ conectado",
+      "timestamp": 1775680914.413495,
+      "fuente": "sistema"
+    },
+    {
+      "rol": "user",
+      "texto": "aprende de mis repos",
+      "timestamp": 1775680925.7932258,
+      "fuente": ""
+    }
+  ]
+}

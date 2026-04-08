@@ -5,5 +5,11 @@
   "carpetas_permitidas": [],
   "github_token": "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",
   "max_entradas": 10000,
-  "umbral_confianza_auto": 0.6
+  "umbral_confianza_auto": 0.6,
+  "nombre_usuario": "Usuario",
+  "idioma": "es",
+  "tema_ui": "dark",
+  "max_historial": 200,
+  "voz_pako": true,
+  "busqueda_web_auto": true
 }

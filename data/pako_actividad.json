@@ -2,1322 +2,620 @@
   "actividad": [
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] repo README overview → This repository will stay in sync with your deployed chats on [v0.app](https://v",
-      "timestamp": 1775649515.597465,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README paradise beauty website → *Automatically synced with your [v0.app](https://v0.app) deployments* [![Deploye",
-      "timestamp": 1775649515.5930333,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo paradise-website how it works → 1. Create and modify your project using [v0.app](https://v0.app) 2. Deploy your ",
-      "timestamp": 1775649514.2669463,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo paradise-website build your app → Continue building your app on: **[https://v0.app/chat/fyAhFvOLEOV](https://v0.ap",
-      "timestamp": 1775649514.264994,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo paradise-website deployment → Your project is live at: **[https://vercel.com/joseluuu315s-projects/v0-paradise",
-      "timestamp": 1775649514.2627573,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo paradise-website overview → This repository will stay in sync with your deployed chats on [v0.app](https://v",
-      "timestamp": 1775649514.2609313,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo paradise-website paradise beauty website → *Automatically synced with your [v0.app](https://v0.app) deployments* [![Deploye",
-      "timestamp": 1775649514.2583196,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo paradise-website → Paradise Beauty website: *Automatically synced with your v0.app deployments* [](",
-      "timestamp": 1775649514.2565517,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/paradise-website",
-      "timestamp": 1775649513.8110647,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'real-kebab-web-demo'.",
-      "timestamp": 1775649513.8110557,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/real-kebab-web-demo",
-      "timestamp": 1775649513.2217927,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 2 entradas del repo 'Joseluuu315'.",
-      "timestamp": 1775649513.221774,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo Joseluuu315 → Joseluuu315: <h1 align=\"center\">👋 Hi, I'm <a href=\"https://averonix.org\">José Lu",
-      "timestamp": 1775649511.885886,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/Joseluuu315",
-      "timestamp": 1775649511.4773448,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 10 entradas del repo 'crm-averonix'.",
-      "timestamp": 1775649511.4772363,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/crm-averonix",
-      "timestamp": 1775649498.9304426,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'referee-designation-app'.",
-      "timestamp": 1775649498.9304028,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/referee-designation-app",
-      "timestamp": 1775649486.9006197,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 24 entradas del repo 'todo-collab-app'.",
-      "timestamp": 1775649486.900572,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/todo-collab-app",
-      "timestamp": 1775649474.8549592,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'averonix-studio-website'.",
-      "timestamp": 1775649474.8532012,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/averonix-studio-website",
-      "timestamp": 1775649461.3417568,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 10 entradas del repo 'SEO-Website'.",
-      "timestamp": 1775649461.3410861,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/SEO-Website",
-      "timestamp": 1775649447.8447778,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 6 entradas del repo 'imbersonicmenu-prestashop'.",
-      "timestamp": 1775649447.8447442,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/imbersonicmenu-prestashop",
-      "timestamp": 1775649444.1888404,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 60 entradas del repo 'aucorsa-planner'.",
-      "timestamp": 1775649444.188493,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/aucorsa-planner",
-      "timestamp": 1775649429.3465102,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'lavanda-experience-mantenimiento'.",
-      "timestamp": 1775649429.3465037,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/lavanda-experience-mantenimiento",
-      "timestamp": 1775649428.579442,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 17 entradas del repo 'TFG-Hospital'.",
-      "timestamp": 1775649428.577727,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/TFG-Hospital",
-      "timestamp": 1775649415.5944257,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 26 entradas del repo 'mongo-easy-common'.",
-      "timestamp": 1775649415.5943964,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/mongo-easy-common",
-      "timestamp": 1775649405.0747802,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'aicor-uas-api'.",
-      "timestamp": 1775649405.0747638,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/aicor-uas-api",
-      "timestamp": 1775649404.4785755,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'web'.",
-      "timestamp": 1775649404.4785655,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/web",
-      "timestamp": 1775649403.9142385,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'BloodStrike'.",
-      "timestamp": 1775649403.9142272,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/BloodStrike",
-      "timestamp": 1775649403.334208,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'hacka-newsletter-signup'.",
-      "timestamp": 1775649403.3324933,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/hacka-newsletter-signup",
-      "timestamp": 1775649390.4745886,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'sevilla_pasos_app'.",
-      "timestamp": 1775649390.474577,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/sevilla_pasos_app",
-      "timestamp": 1775649389.820771,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'portal'.",
-      "timestamp": 1775649389.8207612,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/portal",
-      "timestamp": 1775649389.223331,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 7 entradas del repo 'IA_Models'.",
-      "timestamp": 1775649389.2233095,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/IA_Models",
-      "timestamp": 1775649385.9424021,
-      "detalle": ""
-    },
-    {
-      "tipo": "sistema",
-      "mensaje": "GitHub conectado como @Joseluuu315",
-      "timestamp": 1775649373.3833165,
-      "detalle": ""
-    },
-    {
-      "tipo": "sistema",
-      "mensaje": "GitHub conectado como @Joseluuu315",
-      "timestamp": 1775649365.95203,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo crm-averonix → Averonix Studio CRM (Flutter + Dart): CRM base para gestionar clientes, proyecto",
-      "timestamp": 1775649350.3389285,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/crm-averonix",
-      "timestamp": 1775649349.5101295,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'referee-designation-app'.",
-      "timestamp": 1775649349.510086,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/referee-designation-app",
-      "timestamp": 1775649336.9778118,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 24 entradas del repo 'todo-collab-app'.",
-      "timestamp": 1775649336.9777555,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README configuring tanstack query → In order to use the React generated SDK in your application, you must wrap your ",
-      "timestamp": 1775649328.9469695,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README installing tanstack query firebase and → In order to use the React generated SDK, you must install the `TanStack React Qu",
-      "timestamp": 1775649328.9453495,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README tanstack query firebase & tanstack rea → This SDK provides [React](https://react.dev/) hooks generated specific to your a",
-      "timestamp": 1775649328.943733,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README generated react readme → This README will guide you through the process of using the generated React SDK ",
-      "timestamp": 1775649328.9421535,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README queries → No queries were generated for the `default` connector. If you want to learn more",
-      "timestamp": 1775649326.613349,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README connecting to the local emulator → By default, the connector will connect to the production service. To connect to ",
-      "timestamp": 1775649326.61075,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README accessing the connector → A connector is a collection of Queries and Mutations. One SDK is generated for e",
-      "timestamp": 1775649326.6091974,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README generated typescript readme → This README will guide you through the process of using the generated JavaScript",
-      "timestamp": 1775649326.6077342,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README ⚙️ **instalación** → ### 1. Clona el repositorio git clone https://github.com/Joseluuu315/todo-collab",
-      "timestamp": 1775649326.2303896,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README 📂 **estructura del proyecto** → src/ ├── assets/ # Imágenes, iconos, recursos estáticos ├── components/ # Compon",
-      "timestamp": 1775649326.2290175,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README 🧰 **tecnologías** → - ⚛️ **React 19** - ⌨️ **TypeScript** - ⚡ **Vite** - 🔥 **Firebase** - ✅ **ESLint",
-      "timestamp": 1775649326.2274058,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README 🚀 **características principales** → ✅ Crear, editar y eliminar tareas ✅ Marcar tareas como completadas ✅ Compartir t",
-      "timestamp": 1775649326.2259111,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README ✅ todo collab app → Una **aplicación colaborativa de tareas** construida con **React 19**, **TypeScr",
-      "timestamp": 1775649326.2244065,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo todo-collab-app ⚙️ **instalación** → ### 1. Clona el repositorio git clone https://github.com/Joseluuu315/todo-collab",
-      "timestamp": 1775649324.895655,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo todo-collab-app 📂 **estructura del proyecto** → src/ ├── assets/ # Imágenes, iconos, recursos estáticos ├── components/ # Compon",
-      "timestamp": 1775649324.894335,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo todo-collab-app 🧰 **tecnologías** → - ⚛️ **React 19** - ⌨️ **TypeScript** - ⚡ **Vite** - 🔥 **Firebase** - ✅ **ESLint",
-      "timestamp": 1775649324.8916962,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo todo-collab-app 🚀 **características principal → ✅ Crear, editar y eliminar tareas ✅ Marcar tareas como completadas ✅ Compartir t",
-      "timestamp": 1775649324.8900118,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo todo-collab-app ✅ todo collab app → Una **aplicación colaborativa de tareas** construida con **React 19**, **TypeScr",
-      "timestamp": 1775649324.8881414,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo todo-collab-app → ✅ Todo Collab App: Una **aplicación colaborativa de tareas** construida con **Re",
-      "timestamp": 1775649324.8857439,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/todo-collab-app",
-      "timestamp": 1775649324.4281929,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'averonix-studio-website'.",
-      "timestamp": 1775649324.4281342,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/averonix-studio-website",
-      "timestamp": 1775649310.05061,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 10 entradas del repo 'SEO-Website'.",
-      "timestamp": 1775649310.0502448,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README 🛠 stack tecnológico → **Backend**: Node.js, Express, Mongoose (MongoDB), Cheerio, Axios, JWT, Bcrypt *",
-      "timestamp": 1775649298.3043525,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README ✨ funcionalidades → ### Autenticación - Registro con username, email y contraseña - Login con JWT (7",
-      "timestamp": 1775649298.3026295,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README 🚀 instalación y puesta en marcha → ### 1. Backend Edita el archivo `.env`: ### 2. Frontend El frontend tiene config",
-      "timestamp": 1775649298.2998383,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README ⚡ seopro — analizador seo profesional → Una plataforma de análisis SEO full-stack con autenticación, puntuación automáti",
-      "timestamp": 1775649298.2982798,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo SEO-Website 🛠 stack tecnológico → **Backend**: Node.js, Express, Mongoose (MongoDB), Cheerio, Axios, JWT, Bcrypt *",
-      "timestamp": 1775649296.4603553,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo SEO-Website ✨ funcionalidades → ### Autenticación - Registro con username, email y contraseña - Login con JWT (7",
-      "timestamp": 1775649296.4591987,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo SEO-Website 🚀 instalación y puesta en marcha → ### 1. Backend Edita el archivo `.env`: ### 2. Frontend El frontend tiene config",
-      "timestamp": 1775649296.458053,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo SEO-Website ⚡ seopro — analizador seo profesi → Una plataforma de análisis SEO full-stack con autenticación, puntuación automáti",
-      "timestamp": 1775649296.4567788,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo SEO-Website → ⚡ SEOPro — Analizador SEO Profesional: Una plataforma de análisis SEO full-stack",
-      "timestamp": 1775649296.4555233,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/SEO-Website",
-      "timestamp": 1775649295.9206252,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 6 entradas del repo 'imbersonicmenu-prestashop'.",
-      "timestamp": 1775649295.9206092,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README notas → - El menu carga estructura inicial basada en tus IDs de categoria. - Si una cate",
-      "timestamp": 1775649294.9706533,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README instalacion → 1. Copia la carpeta `imbersonicmenu` dentro de `modules/` de tu tienda. 2. En Ba",
-      "timestamp": 1775649294.9677267,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo imbersonicmenu-prestashop notas → - El menu carga estructura inicial basada en tus IDs de categoria. - Si una cate",
-      "timestamp": 1775649292.8947315,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo imbersonicmenu-prestashop instalacion → 1. Copia la carpeta `imbersonicmenu` dentro de `modules/` de tu tienda. 2. En Ba",
-      "timestamp": 1775649292.8932672,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo imbersonicmenu-prestashop → imbersonicmenu-prestashop: ﻿ Modulo de mega menu de categorias, editable desde b",
-      "timestamp": 1775649292.8918858,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/imbersonicmenu-prestashop",
-      "timestamp": 1775649292.0883691,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 60 entradas del repo 'aucorsa-planner'.",
-      "timestamp": 1775649292.0881753,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README tests → Clone the repo, `npm install`, and run `npm test` [package-url]: https://npmjs.o",
-      "timestamp": 1775649288.8774183,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README call-bind-apply-helpers <sup>[![versio → [![github actions][actions-image]][actions-url] [![coverage][codecov-image]][cod",
-      "timestamp": 1775649288.8761692,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo CHANGELOG v1.0.0 - 2024-12-05 → ### Commits - Initial implementation, tests, readme [`7879629`](https://github.c",
-      "timestamp": 1775649288.5460546,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo CHANGELOG [v1.0.1](https://github.com/ljharb/ → ### Commits - [types] `reflectApply`: fix types [`4efc396`](https://github.com/l",
-      "timestamp": 1775649288.5447598,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo CHANGELOG [v1.0.2](https://github.com/ljharb/ → ### Commits - [types] improve inferred types [`e6f9586`](https://github.com/ljha",
-      "timestamp": 1775649288.5420096,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo CHANGELOG changelog → All notable changes to this project will be documented in this file. The format ",
-      "timestamp": 1775649288.540832,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo CHANGELOG → Changelog: All notable changes to this project will be documented in this file. ",
-      "timestamp": 1775649288.5380647,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.bytes.index.parse → Parse the string value into an integer in bytes.  If no unit is given, it is ass",
-      "timestamp": 1775649287.405113,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.bytes.index.format → Format the given value in bytes into a string.  If the value is negative, it is ",
-      "timestamp": 1775649287.4029725,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.bytes.index.bytes → Module exports. \n\nmodule.exports = bytes;\nmodule.exports.format = format;\nmodule",
-      "timestamp": 1775649287.4008646,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo Readme usage → #### bytes(number｜string value, [options]): number｜string｜null Default export fu",
-      "timestamp": 1775649287.0175707,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo Readme bytes utility → [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloa",
-      "timestamp": 1775649287.0153072,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.utils → Passthrough function that returns input unchanged. Used by parsers that don't ne",
-      "timestamp": 1775649285.9807422,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.utils → Normalizes the common options for all parsers.",
-      "timestamp": 1775649285.9795902,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.utils → Get the simple type checker.",
-      "timestamp": 1775649285.9776945,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.utils → Module dependencies. /\n\nvar bytes = require('bytes')\nvar contentType = require('",
-      "timestamp": 1775649285.9766228,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Count the number of parameters, stopping once limit reached",
-      "timestamp": 1775649285.4362822,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Get the extended query parser.",
-      "timestamp": 1775649285.4339051,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Module dependencies. \n\nvar createError = require('http-errors')\nvar debug = requ",
-      "timestamp": 1775649285.4320028,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Module dependencies. /\n\nvar debug = require('debug')('body-parser:text')\nvar rea",
-      "timestamp": 1775649285.066784,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Module dependencies. /\n\nvar debug = require('debug')('body-parser:raw')\nvar read",
-      "timestamp": 1775649284.7217965,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Normalize a SyntaxError for JSON.parse.",
-      "timestamp": 1775649284.340729,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Get the first non-whitespace character in a string.",
-      "timestamp": 1775649284.3394432,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Create strict violation syntax error matching native error.",
-      "timestamp": 1775649284.338375,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.types → Module dependencies. \n\nvar debug = require('debug')('body-parser:json')\nvar read",
-      "timestamp": 1775649284.3364153,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.read. → Dump the contents of a request.",
-      "timestamp": 1775649283.9578817,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.read. → Create a decompression stream for the given encoding.",
-      "timestamp": 1775649283.9569035,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.read. → Get the content stream of the request.",
-      "timestamp": 1775649283.9559624,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.lib.read. → Module dependencies. \n\nvar createError = require('http-errors')\nvar getBody = re",
-      "timestamp": 1775649283.954981,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.body-parser.index.bod → /   Module exports. \nexports = module.exports = bodyParser\n\n/   JSON parser. \nOb",
-      "timestamp": 1775649283.60261,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README errors → The middlewares provided by this module create errors using the [`http-errors` m",
-      "timestamp": 1775649283.2075548,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README body-parser → [![NPM Version][npm-version-image]][npm-url] [![NPM Downloads][npm-downloads-ima",
-      "timestamp": 1775649283.2052753,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.accepts.index.validMi → Check if mime is valid.",
-      "timestamp": 1775649282.4148765,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.accepts.index.extToMi → Check if the given `type(s)` is acceptable, returning the best match when true, ",
-      "timestamp": 1775649282.413978,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] funcion backend.node_modules.accepts.index.Accepts → Module dependencies. \n\nvar Negotiator = require('negotiator')\nvar mime = require",
-      "timestamp": 1775649282.4123256,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README license → [MIT](LICENSE) [coveralls-image]: https://badgen.net/coveralls/c/github/jshttp/a",
-      "timestamp": 1775649282.0819647,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README examples → ### Simple type negotiation This simple example shows how to use `accepts` to re",
-      "timestamp": 1775649282.0809615,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README api → ### accepts(req) Create a new `Accepts` object for the given `req`. #### .charse",
-      "timestamp": 1775649282.0801528,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[github] repo README accepts → [![NPM Version][npm-version-image]][npm-url] [![NPM Downloads][npm-downloads-ima",
-      "timestamp": 1775649282.0784564,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
       "mensaje": "[github] repo HISTORY → HISTORY: 2.0.0 / 2024-08-31 ================== * Drop node <18 support * deps: m",
-      "timestamp": 1775649281.7484183,
+      "timestamp": 1775680975.9390748,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README 🧠 lógica de funcionamiento → El proyecto utiliza **Hidratación Selectiva**: * **Componentes Estáticos**: El `",
-      "timestamp": 1775649280.871766,
+      "timestamp": 1775680975.164232,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README ⚙️ instalación y configuración → ### 1. Requisitos Previos * **Node.js** (v18.0 o superior). * Archivos **GTFS** ",
-      "timestamp": 1775649280.8704095,
+      "timestamp": 1775680975.1570523,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README 🛠️ tecnologías utilizadas → ### **Frontend** (`/frontend-astro`) * **Astro**: Framework principal para el re",
-      "timestamp": 1775649280.869622,
+      "timestamp": 1775680975.1501167,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README 🚍 aucorsa planner → ![Status](https://img.shields.io/badge/Estado-Prototipo-orange) ![Tech](https://",
-      "timestamp": 1775649280.8687744,
+      "timestamp": 1775680975.1456995,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo aucorsa-planner 🧠 lógica de funcionamiento → El proyecto utiliza **Hidratación Selectiva**: * **Componentes Estáticos**: El `",
-      "timestamp": 1775649278.494943,
+      "timestamp": 1775680972.9096892,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo aucorsa-planner ⚙️ instalación y configuració → ### 1. Requisitos Previos * **Node.js** (v18.0 o superior). * Archivos **GTFS** ",
-      "timestamp": 1775649278.4941475,
+      "timestamp": 1775680972.9054022,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo aucorsa-planner 🛠️ tecnologías utilizadas → ### **Frontend** (`/frontend-astro`) * **Astro**: Framework principal para el re",
-      "timestamp": 1775649278.4933724,
+      "timestamp": 1775680972.9017298,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo aucorsa-planner 🚍 aucorsa planner → ![Status](https://img.shields.io/badge/Estado-Prototipo-orange) ![Tech](https://",
-      "timestamp": 1775649278.49257,
+      "timestamp": 1775680972.8981912,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo aucorsa-planner → 🚍 AUCORSA Planner: **AUCORSA Planner** es un planificador inteligente de transpo",
-      "timestamp": 1775649278.4917495,
+      "timestamp": 1775680972.8937764,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/aucorsa-planner",
-      "timestamp": 1775649277.6098661,
+      "timestamp": 1775680972.1403115,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 0 entradas del repo 'lavanda-experience-mantenimiento'.",
-      "timestamp": 1775649277.6098351,
+      "timestamp": 1775680972.1402829,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/lavanda-experience-mantenimiento",
-      "timestamp": 1775649276.9170134,
+      "timestamp": 1775680971.6450763,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 17 entradas del repo 'TFG-Hospital'.",
-      "timestamp": 1775649276.9169502,
+      "timestamp": 1775680971.6450095,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README configuración → 1. **Clonar el repositorio** (si no lo has hecho ya): 2. **Configurar la URL de ",
-      "timestamp": 1775649267.3867395,
+      "timestamp": 1775680962.8193266,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README prerrequisitos → - Node.js (versión 22 o superior recomendada). - PNPM (puedes instalarlo con `np",
-      "timestamp": 1775649267.3842793,
+      "timestamp": 1775680962.8152466,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README tecnologías utilizadas → - **Framework**: Next.js 16.1.6 - **Lenguaje**: TypeScript 5.7.3 - **Librería de",
-      "timestamp": 1775649267.3834293,
+      "timestamp": 1775680962.8107593,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README front-end (interfaz de usuario) → ![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black.svg) ![React](https",
-      "timestamp": 1775649267.3809412,
+      "timestamp": 1775680962.8028984,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README licencia → Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más ",
-      "timestamp": 1775649266.9667165,
+      "timestamp": 1775680962.4669693,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README características principales → - **Gestión de Pacientes**: Alta, baja y modificación de la información de los p",
-      "timestamp": 1775649266.9653873,
+      "timestamp": 1775680962.462364,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README arquitectura → El proyecto está dividido en dos componentes principales: - **[Front-end](./fron",
-      "timestamp": 1775649266.9640284,
+      "timestamp": 1775680962.4589064,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README descripción → **TFG-Hospital** es una aplicación web completa para la gestión hospitalaria, de",
-      "timestamp": 1775649266.9629858,
+      "timestamp": 1775680962.4552164,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README tfg-hospital → ![License](https://img.shields.io/badge/license-MIT-blue.svg)",
-      "timestamp": 1775649266.9621584,
+      "timestamp": 1775680962.451494,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo TFG-Hospital licencia → Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más ",
-      "timestamp": 1775649264.6187055,
+      "timestamp": 1775680960.3767989,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo TFG-Hospital características principales → - **Gestión de Pacientes**: Alta, baja y modificación de la información de los p",
-      "timestamp": 1775649264.6178966,
+      "timestamp": 1775680960.3731897,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo TFG-Hospital arquitectura → El proyecto está dividido en dos componentes principales: - **[Front-end](./fron",
-      "timestamp": 1775649264.6163645,
+      "timestamp": 1775680960.3694572,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo TFG-Hospital descripción → **TFG-Hospital** es una aplicación web completa para la gestión hospitalaria, de",
-      "timestamp": 1775649264.6153257,
+      "timestamp": 1775680960.365488,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo TFG-Hospital tfg-hospital → ![License](https://img.shields.io/badge/license-MIT-blue.svg)",
-      "timestamp": 1775649264.6143944,
+      "timestamp": 1775680960.3606832,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/TFG-Hospital",
-      "timestamp": 1775649264.117226,
+      "timestamp": 1775680959.8818753,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 26 entradas del repo 'mongo-easy-common'.",
-      "timestamp": 1775649264.1171894,
+      "timestamp": 1775680959.8818336,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.utils.sanitizeString → Sanitizes a string value by trimming and validating it's not empty",
-      "timestamp": 1775649260.9307327,
+      "timestamp": 1775680957.2212749,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.utils.validateRequired → Validates that a value is not null or undefined",
-      "timestamp": 1775649260.9300187,
+      "timestamp": 1775680957.217851,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.utils.touch → Return a `$set` update that bumps `updatedAt` to now, merged with any additional",
-      "timestamp": 1775649260.9290285,
+      "timestamp": 1775680957.2134626,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.utils.timestamps → Build a standard `createdAt` / `updatedAt` timestamp object to spread into inser",
-      "timestamp": 1775649260.9280696,
+      "timestamp": 1775680957.209815,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.utils.setFields → Build a `$set`-only update from a partial object, ignoring `undefined` values so",
-      "timestamp": 1775649260.927065,
+      "timestamp": 1775680957.2061846,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.utils.toObjectId → Safely convert a string or ObjectId to ObjectId. Throws `MongoEasyError` if the ",
-      "timestamp": 1775649260.925291,
+      "timestamp": 1775680957.202407,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.index-old.touch → Return a `$set` update that bumps `updatedAt` to now, merged with any additional",
-      "timestamp": 1775649259.4566271,
+      "timestamp": 1775680955.740705,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.index-old.timestamps → Build a standard `createdAt` / `updatedAt` timestamp object to spread into inser",
-      "timestamp": 1775649259.4559057,
+      "timestamp": 1775680955.7345057,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.index-old.setFields → Build a `$set`-only update from a partial object, ignoring `undefined` values so",
-      "timestamp": 1775649259.4552555,
+      "timestamp": 1775680955.727288,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] funcion src.index-old.toObjectId → Fluent wrapper around a MongoDB Collection with ready-to-use CRUD helpers.  \nexp",
-      "timestamp": 1775649259.4544919,
+      "timestamp": 1775680955.7197597,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README api reference → ### `connect` Creates the default manager and establishes a connection. Subseque",
-      "timestamp": 1775649257.5482285,
+      "timestamp": 1775680953.9943335,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README installation → > `mongodb` is a required peer dependency. Make sure you have it installed along",
-      "timestamp": 1775649257.547137,
+      "timestamp": 1775680953.9910505,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README features → - **One-line setup** — connect and get a reusable default manager in a single ca",
-      "timestamp": 1775649257.54579,
+      "timestamp": 1775680953.9870303,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README table of contents → - [mongo-easy-common](#mongo-easy-common) - [Table of Contents](#table-of-conten",
-      "timestamp": 1775649257.544697,
+      "timestamp": 1775680953.9795887,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo README → Start a local MongoDB instance: ﻿ [](https://github.com/Joseluuu315/mongo-easy-c",
-      "timestamp": 1775649257.5437448,
+      "timestamp": 1775680953.9739316,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo CHANGELOG 0.1.0 → ### Minor Changes - Initial release with MongoDB connection helpers, transaction",
-      "timestamp": 1775649257.2215867,
+      "timestamp": 1775680953.66211,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo CHANGELOG 0.2.0 → ### Minor Changes - Add EasyCollection<T> class wrapping MongoDB Collection with",
-      "timestamp": 1775649257.2209513,
+      "timestamp": 1775680953.658824,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo CHANGELOG 1.0.0 → ### Major Changes - bd9366c: Major refactoring and security improvements",
-      "timestamp": 1775649257.220203,
+      "timestamp": 1775680953.655334,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo feature_request → feature_request: --- name: Feature request about: Suggest an idea for this proje",
-      "timestamp": 1775649256.4807677,
+      "timestamp": 1775680953.0290027,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo custom → custom: --- name: Custom issue template about: Describe this issue template's pu",
-      "timestamp": 1775649256.132943,
+      "timestamp": 1775680952.6669848,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo bug_report → bug_report: --- name: Bug report about: Create a report to help us improve title",
-      "timestamp": 1775649255.7749693,
+      "timestamp": 1775680952.3178844,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo mongo-easy-common api reference → ### `connect` Creates the default manager and establishes a connection. Subseque",
-      "timestamp": 1775649254.228175,
+      "timestamp": 1775680950.8993437,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo mongo-easy-common installation → > `mongodb` is a required peer dependency. Make sure you have it installed along",
-      "timestamp": 1775649254.2277424,
+      "timestamp": 1775680950.8938198,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo mongo-easy-common features → - **One-line setup** — connect and get a reusable default manager in a single ca",
-      "timestamp": 1775649254.2273173,
+      "timestamp": 1775680950.8867629,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo mongo-easy-common table of contents → - [mongo-easy-common](#mongo-easy-common) - [Table of Contents](#table-of-conten",
-      "timestamp": 1775649254.22689,
+      "timestamp": 1775680950.8776257,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "[github] repo mongo-easy-common → Start a local MongoDB instance: ﻿ [](https://github.com/Joseluuu315/mongo-easy-c",
-      "timestamp": 1775649254.2260284,
+      "timestamp": 1775680950.8714275,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/mongo-easy-common",
-      "timestamp": 1775649253.7292964,
+      "timestamp": 1775680950.4460204,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 0 entradas del repo 'aicor-uas-api'.",
-      "timestamp": 1775649253.7292647,
+      "timestamp": 1775680950.4460096,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/aicor-uas-api",
-      "timestamp": 1775649253.1381474,
+      "timestamp": 1775680949.9161198,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 0 entradas del repo 'web'.",
-      "timestamp": 1775649253.1381376,
+      "timestamp": 1775680949.916105,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/web",
-      "timestamp": 1775649252.4611094,
+      "timestamp": 1775680949.1468093,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 0 entradas del repo 'BloodStrike'.",
-      "timestamp": 1775649252.4611013,
+      "timestamp": 1775680949.1467962,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/BloodStrike",
-      "timestamp": 1775649251.845031,
+      "timestamp": 1775680948.6105661,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 0 entradas del repo 'hacka-newsletter-signup'.",
-      "timestamp": 1775649251.8449888,
+      "timestamp": 1775680948.6095998,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/hacka-newsletter-signup",
-      "timestamp": 1775649239.1263776,
+      "timestamp": 1775680936.9659188,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Aprendidas 0 entradas del repo 'sevilla_pasos_app'.",
-      "timestamp": 1775649239.1252265,
+      "timestamp": 1775680936.9659057,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/sevilla_pasos_app",
-      "timestamp": 1775649238.3585403,
+      "timestamp": 1775680936.4510753,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 0 entradas del repo 'portal'.",
-      "timestamp": 1775649238.358522,
+      "mensaje": "Aprendidas 31 entradas del repo 'IA_Models'.",
+      "timestamp": 1775680936.451022,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "Leyendo repo: Joseluuu315/portal",
-      "timestamp": 1775649237.8044627,
+      "mensaje": "[github] clase backend.pako_web_agent.TextExtractor → Extrae texto limpio de HTML, ignorando scripts, estilos, etc.",
+      "timestamp": 1775680933.8976223,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "Aprendidas 7 entradas del repo 'IA_Models'.",
-      "timestamp": 1775649237.8044467,
+      "mensaje": "[github] funcion backend.pako_web_agent.aprender_de_url → Lee una URL específica y extrae conocimiento. Retorna (número de entradas guarda",
+      "timestamp": 1775680933.8937895,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] modulo paco_server → server.py — Servidor web de Paco.\nExpone una API REST + sirve la interfaz HTML.",
-      "timestamp": 1775649237.804439,
+      "mensaje": "[github] funcion backend.pako_web_agent.buscar_y_aprender → Punto de entrada principal: busca información y retorna respuesta.",
+      "timestamp": 1775680933.890226,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] funcion paco_brain.recordar_contexto → Devuelve el último turno del usuario.",
-      "timestamp": 1775649237.397595,
+      "mensaje": "[github] funcion backend.pako_web_agent.buscar_wikipedia → Busca directamente en la API de Wikipedia. Más fiable que scraping general.",
+      "timestamp": 1775680933.887087,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] funcion paco_brain.buscar_aprendido → Busca en lo que Paco ha aprendido.",
-      "timestamp": 1775649237.3970594,
+      "mensaje": "[github] funcion backend.pako_web_agent.buscar_ddg → Busca en DuckDuckGo (HTML) y devuelve lista de resultados. Usa el endpoint HTML ",
+      "timestamp": 1775680933.8839247,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] funcion paco_brain.intentar_aprender → Detecta comandos de aprendizaje explícito.",
-      "timestamp": 1775649237.396546,
+      "mensaje": "[github] modulo backend.pako_web_agent → pako_web_agent.py — Agente de navegación web de PAKO.\n\nBusca información en inte",
+      "timestamp": 1775680933.8799927,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] funcion paco_brain.analizar_datos → Detecta listas de números y hace estadísticas básicas.",
-      "timestamp": 1775649237.3960183,
+      "mensaje": "[github] modulo backend.pako_server → pako_server.py - Servidor web de PAKO.\n\nAPI REST completa + sirve la app React c",
+      "timestamp": 1775680933.4544458,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] funcion paco_brain.calcular → Evalúa expresiones matemáticas extraídas de texto natural. Soporta: +, -, *, /, ",
-      "timestamp": 1775649237.3949943,
+      "mensaje": "[github] clase backend.pako_memory.PakoMemory → Gestiona toda la persistencia de PAKO. Thread-safe con lock interno.",
+      "timestamp": 1775680933.0414326,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
-      "mensaje": "[github] modulo paco_brain → brain.py — El cerebro de Paco.\n\nMódulos:\n  - Tokenizador y normalizador de texto",
-      "timestamp": 1775649237.3945093,
+      "mensaje": "[github] funcion backend.pako_memory.buscar → Devuelve entradas cuya clave coincide aproximadamente con el texto.",
+      "timestamp": 1775680933.0380523,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_memory.guardar_conocimiento → Guarda una entrada de conocimiento. Retorna (éxito, mensaje). Con validacion_man",
+      "timestamp": 1775680933.0339477,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_memory.cargar_desde_json_lega → Importa un paco_aprendido.json antiguo. Retorna nº de entradas importadas.",
+      "timestamp": 1775680933.0297446,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] modulo backend.pako_memory → pako_memory.py — Gestión de toda la memoria persistente de PAKO.\n\nAlmacena:\n  - ",
+      "timestamp": 1775680933.0264604,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_github_agent.aprender_de_todo → Aprende de todos los repos del usuario. Puede tardar varios segundos.",
+      "timestamp": 1775680932.6573553,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_github_agent.aprender_de_repo → Lee un repositorio completo y extrae conocimiento. SOLO LECTURA. Retorna (n_entr",
+      "timestamp": 1775680932.65368,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_github_agent.reconectar → Reconecta usando el token guardado en config.",
+      "timestamp": 1775680932.649659,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_github_agent.conectar → Conecta con GitHub usando un Personal Access Token.",
+      "timestamp": 1775680932.644986,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] modulo backend.pako_github_agent → pako_github_agent.py — Agente de integración con GitHub de PAKO.\n\nLee repositori",
+      "timestamp": 1775680932.6413176,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_file_agent.listar_carpeta → Lista el contenido de una carpeta permitida.",
+      "timestamp": 1775680932.023386,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_file_agent.aprender_de_archiv → Lee un archivo y extrae conocimiento.",
+      "timestamp": 1775680932.0195947,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_file_agent.leer_archivo → Lee un archivo (SOLO LECTURA). Retorna (contenido, mensaje).",
+      "timestamp": 1775680932.0154612,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] funcion backend.pako_file_agent.agregar_carpeta → Añade una carpeta a la lista de permitidas.",
+      "timestamp": 1775680932.0119247,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] modulo backend.pako_file_agent → pako_file_agent.py — Agente de lectura de archivos locales (SOLO LECTURA).\n\nLee ",
+      "timestamp": 1775680932.0087025,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] modulo backend.pako_brain → pako_brain.py — Cerebro principal de PAKO.\n\nMotor híbrido:\n  1. Memoria local (c",
+      "timestamp": 1775680931.669938,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo PAKO_README instalación → ### Requisitos - Python 3.10 o superior - **Sin dependencias externas** (usa sol",
+      "timestamp": 1775680931.3261414,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo PAKO_README pako — ia propia v2.0 → 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 Sistema de IA híbrida local: memoria pe",
+      "timestamp": 1775680931.3224816,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo PAKO_README → PAKO — IA Propia v2.0: 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 Sistema de IA hí",
+      "timestamp": 1775680931.3184173,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo INSTRUCCIONES_PACO 4. sistema de autoaprendiz → - PACO debe poder aprender automáticamente, pero con reglas: - Validación obliga",
+      "timestamp": 1775680931.0092707,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo INSTRUCCIONES_PACO 3. navegación y aprendizaj → Crear un agente que: - Busque información en internet cuando no sepa algo - Extr",
+      "timestamp": 1775680931.005883,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo INSTRUCCIONES_PACO 2. aprendizaje automático  → Implementar un módulo que: - Permita login mediante OAuth de GitHub - Acceda a l",
+      "timestamp": 1775680931.0018325,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo INSTRUCCIONES_PACO 1. chatbot base → - Mantener todas las funcionalidades actuales: - Conversación natural - Cálculos",
+      "timestamp": 1775680930.9967585,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "[github] repo INSTRUCCIONES_PACO → 🧩 FUNCIONALIDADES PRINCIPALES: Quiero que desarrolles una IA llamada PACO (o PAK",
+      "timestamp": 1775680930.992058,
       "detalle": ""
     },
     {
       "tipo": "aprendizaje",
       "mensaje": "Leyendo repo: Joseluuu315/IA_Models",
-      "timestamp": 1775649234.3118896,
+      "timestamp": 1775680929.2608192,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "Aprendidas 0 entradas del repo 'portal'.",
+      "timestamp": 1775680929.2607918,
+      "detalle": ""
+    },
+    {
+      "tipo": "aprendizaje",
+      "mensaje": "Leyendo repo: Joseluuu315/portal",
+      "timestamp": 1775680928.7116385,
       "detalle": ""
     },
     {
       "tipo": "sistema",
       "mensaje": "GitHub conectado como @Joseluuu315",
-      "timestamp": 1775649222.7779121,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[web] ejemplos de codigos en java → Java es un lenguaje de programación y una plataforma informática que fue comerci",
-      "timestamp": 1775648657.3909302,
-      "detalle": ""
-    },
-    {
-      "tipo": "busqueda",
-      "mensaje": "Buscando: 'ejemplos de codigos en java'",
-      "timestamp": 1775648656.7389557,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[web] un perro → Los perros de caza son aquellos canes utilizados para asistir al ser humano dura",
-      "timestamp": 1775648636.641717,
-      "detalle": ""
-    },
-    {
-      "tipo": "busqueda",
-      "mensaje": "Buscando: 'un perro'",
-      "timestamp": 1775648636.0503614,
-      "detalle": ""
-    },
-    {
-      "tipo": "aprendizaje",
-      "mensaje": "[web] solid → En ingeniería de software, SOLID (Single responsibility, Open-closed, Liskov sub",
-      "timestamp": 1775648630.9095333,
-      "detalle": ""
-    },
-    {
-      "tipo": "busqueda",
-      "mensaje": "Buscando: 'solid'",
-      "timestamp": 1775648630.2795086,
+      "timestamp": 1775680912.7901096,
       "detalle": ""
     }
   ]
