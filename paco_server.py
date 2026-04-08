@@ -504,7 +504,7 @@ def iniciar(host: str = "localhost", port: int = 8765):
 ╔══════════════════════════════════════════╗
 ║         PACO — IA Propia activa          ║
 ╠══════════════════════════════════════════╣
-║  URL:  https://{host}:{port}             ║
+║  URL:   http://{host}:{port}             ║
 ║  Ctrl+C para detener                     ║
 ╚══════════════════════════════════════════╝
 """)
