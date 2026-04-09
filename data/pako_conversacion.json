@@ -1,0 +1,124 @@
+{
+  "historial": [
+    {
+      "rol": "user",
+      "texto": "hola",
+      "timestamp": 1775716453.4312458,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "🕒 Son las **08:34**. Hoy es **jueves, 9 de abril de 2026**.",
+      "timestamp": 1775716453.4469142,
+      "fuente": ""
+    },
+    {
+      "rol": "user",
+      "texto": "hol",
+      "timestamp": 1775716459.273996,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775716459.2822423,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 Bash (Bourne Again Shell) es la shell de Unix/Linux mas comun. Comandos esenciales: ls, cd, cp, mv, rm, mkdir, grep (buscar texto), awk (procesar texto), sed (editar streams), find, chmod (permisos), ps, kill, top, ssh, curl, wget, tar, pipes (|), redireccion (>, >>). Permite crear scripts de automatizacion.",
+      "timestamp": 1775716584.907368,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 Serverless es un modelo donde el proveedor gestiona los servidores. El desarrollador escribe funciones que se ejecutan en respuesta a eventos. Pago por uso. Escalado automatico. Ejemplos: AWS Lambda, Azure Functions, Google Cloud Functions. Desventajas: cold starts, limites de tiempo, vendor lock-in.",
+      "timestamp": 1775716584.9622,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "¿Qué puedes hacer?",
+      "timestamp": 1775716643.9121885,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775716643.92393,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "busca qué es Docker",
+      "timestamp": 1775716645.6400926,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 A* combina Dijkstra con una heuristica para guiar la busqueda hacia el objetivo. Funcion f(n) = g(n) + h(n) donde g(n) es el costo desde el inicio y h(n) es la heuristica. Con heuristica admisible garantiza el camino optimo. Usado en IA, videojuegos, GPS.",
+      "timestamp": 1775716645.648604,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "busca qué es Rust",
+      "timestamp": 1775716646.336978,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 A* combina Dijkstra con una heuristica para guiar la busqueda hacia el objetivo. Funcion f(n) = g(n) + h(n) donde g(n) es el costo desde el inicio y h(n) es la heuristica. Con heuristica admisible garantiza el camino optimo. Usado en IA, videojuegos, GPS.",
+      "timestamp": 1775716646.3471112,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "¿cuánto es 1337 × 42?",
+      "timestamp": 1775716647.4556131,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "🧮 El resultado es: **56154**",
+      "timestamp": 1775716647.462146,
+      "fuente": "calculo"
+    },
+    {
+      "rol": "user",
+      "texto": "qué es SOLID",
+      "timestamp": 1775716650.7723112,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 El principio I: ningun cliente debe depender de metodos que no usa. Mejor varias interfaces especificas que una general. En vez de una interfaz Animal con volar(), nadar(), correr(), crear IVolador, INadador, ICorredor.",
+      "timestamp": 1775716650.7770464,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "hol",
+      "timestamp": 1775716657.9730015,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "📚 SOLID son cinco principios de diseño OOP: S=Single Responsibility (una clase, una responsabilidad), O=Open/Closed (abierto para extension, cerrado para modificacion), L=Liskov Substitution (las subclases deben sustituir a sus clases base), I=Interface Segregation (interfaces especificas mejor que una general), D=Dependency Inversion (depender de abstracciones, no de concreciones). Creados por Robert C. Martin, acroynimo introducido por Michael Feathers en 2004.",
+      "timestamp": 1775716657.9758005,
+      "fuente": "memoria"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "timestamp": 1775716659.4588137,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "🕒 Son las **08:37**. Hoy es **jueves, 9 de abril de 2026**.",
+      "timestamp": 1775716659.4639919,
+      "fuente": ""
+    }
+  ]
+}

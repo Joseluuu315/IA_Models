@@ -1,0 +1,15 @@
+{
+  "autoaprendizaje_web": true,
+  "autoaprendizaje_github": false,
+  "validacion_manual": true,
+  "carpetas_permitidas": [],
+  "github_token": "",
+  "max_entradas": 10000,
+  "umbral_confianza_auto": 0.6,
+  "nombre_usuario": "Usuario",
+  "idioma": "es",
+  "tema_ui": "dark",
+  "max_historial": 200,
+  "voz_pako": true,
+  "busqueda_web_auto": true
+}
