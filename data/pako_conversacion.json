@@ -1,0 +1,28 @@
+{
+  "historial": [
+    {
+      "rol": "user",
+      "texto": "hola",
+      "timestamp": 1776062656.1685565,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "¡Buenos días! Soy **PAKO**. ¿En qué te ayudo?\n\n💡 Tengo **215** conceptos aprendidos.",
+      "timestamp": 1776062656.1789932,
+      "fuente": ""
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "timestamp": 1776062674.0355093,
+      "fuente": ""
+    },
+    {
+      "rol": "pako",
+      "texto": "¡Buenos días! Soy **PAKO**. ¿En qué te ayudo?\n\n💡 Tengo **215** conceptos aprendidos.",
+      "timestamp": 1776062674.0390623,
+      "fuente": ""
+    }
+  ]
+}
