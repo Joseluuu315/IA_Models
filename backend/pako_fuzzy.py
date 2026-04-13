@@ -248,6 +248,27 @@ class PakoFuzzy:
     def _vocabulario_completo(self) -> set[str]:
         return VOCABULARIO_PLATAFORMA | self._vocab_extra
 
+    # Palabras que NUNCA se corrigen — evita falsos positivos críticos
+    _NO_TOCAR = frozenset({
+        # Saludos
+        "hola","hey","adios","bye","chao","buenas","saludo","saludos",
+        # Preguntas — crítico para no romper calculadora y búsquedas
+        "busca","buscar","busco","busque",
+        "cuanto","cuantos","cuanta","cuantas",
+        "cuando","donde","quien","quienes","cual","cuales",
+        "porque","para","sobre","entre","hasta","desde","segun",
+        # Pronombres y conjunciones
+        "que","como","si","no","ya","ok","bien","mal",
+        "yo","tu","el","ella","nos","les","mis","sus","tus",
+        "esto","eso","estos","esos","este","esta","ese","esa",
+        # Verbos comunes que no se deben cambiar
+        "hola","soy","eres","somos","tengo","tiene","tienes",
+        "quiero","quiere","puedo","puede","hacer","haces",
+        # Técnicos
+        "api","sql","css","xml","json","http","git","npm",
+        "pip","url","ide","sdk","jwt","csv","pdf","png",
+    })
+
     def corregir_palabra(self, palabra: str) -> str:
         """
         Intenta corregir una palabra mal escrita.
@@ -255,7 +276,11 @@ class PakoFuzzy:
         """
         p = palabra.lower().strip()
 
-        # Ya está en el vocabulario
+        # Lista de palabras protegidas — nunca se corrigen
+        if p in self._NO_TOCAR:
+            return palabra
+
+        # Ya está en el vocabulario exacto
         if p in self._vocabulario_completo():
             return palabra
 
@@ -263,8 +288,9 @@ class PakoFuzzy:
         if p in ABREVIATURAS:
             return ABREVIATURAS[p]
 
-        # Palabras muy cortas (≤ 3): no corregir para evitar falsos positivos
-        if len(p) <= 3:
+        # Palabras cortas (≤ 4): no corregir para evitar falsos positivos
+        # "hola"→"hora", "como"→"code", etc son correcciones dañinas
+        if len(p) <= 4:
             return palabra
 
         mejor_candidato = ""

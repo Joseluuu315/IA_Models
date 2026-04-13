@@ -78,8 +78,8 @@ def _limpiar_texto(texto: str) -> str:
 
 def _extraer_oraciones_relevantes(texto: str, query: str, max_oraciones: int = 5) -> list[str]:
     """Extrae las oraciones más relevantes para la query."""
-    from pako_brain import tokenizar, tokens_sig
-    tokens_q = set(tokens_sig(tokenizar(query)))
+    from pako_brain import tokenizar, tokens_significativos
+    tokens_q = set(tokens_significativos(tokenizar(query)))
 
     oraciones = re.split(r"[.!?]\s+", texto)
     scored = []
@@ -87,7 +87,7 @@ def _extraer_oraciones_relevantes(texto: str, query: str, max_oraciones: int = 5
         oracion = oracion.strip()
         if len(oracion) < 30:
             continue
-        tokens_o = set(tokens_sig(tokenizar(oracion)))
+        tokens_o = set(tokens_significativos(tokenizar(oracion)))
         if not tokens_o:
             continue
         comunes = tokens_q & tokens_o
